@@ -1,0 +1,30 @@
+header img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border: 20px solid #0464a4
+}
+
+.bg-primary{
+    background-color: #fcc41c !important;
+}
+
+
+h1, h2, .navbar-brand, .cute-font {
+    font-family: 'Righteous', cursive;
+}
+
+h2{
+    color: #fcc41c ;
+}
+
+footer {
+    background-color: #fcc41c;
+    text-align: center;
+    padding: 30px;
+}
+
+footer p{
+    margin: 0px;
+}
+
